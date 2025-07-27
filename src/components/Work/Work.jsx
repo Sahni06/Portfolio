@@ -54,7 +54,7 @@ const Work = () => {
 {/* Modal Container */}
 {selectedProject && (
   <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-90 p-20 " >
-    <div className="bg-gray-900 rounded-xl shadow-2xl lg:w-100 lg:h-130 w-[90%] max-w-3xl overflow-hidden relative ">
+    <div className="bg-gray-900 rounded-xl shadow-2xl lg:w-100 lg:h-140 w-[100%] max-w-3xl overflow-hidden relative ">
       <div className="flex justify-end p-1">
         <button
         onClick={handleCloseModal}
