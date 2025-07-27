@@ -189,8 +189,8 @@ export const SkillsInfo = [
       description:
       "This site is a React JS-based portfolio showcasing my personal data and professional background, including information about me, my skills, past projects and contact info. it is a one-stop destination for discovering all the relevant details about me",
       image: portfolio,
-      tags: ["React JS", "Tailwind CSS"],
-    github: "https://github.com/Sahni06/Portfolio-using-React.js"
+      tags: ["React JS", "Tailwind CSS","Vercel"],
+    github: "https://github.com/Sahni06/Portfolio"
 
     }
   ]
